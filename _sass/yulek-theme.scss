@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$font: "Hevetica", "Arial", sans-serif;
+
+$pink: #F8BBCD;
+$dark-color: #000;
+
+$spacing: 40px;
+
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "yulek-theme/layout",
+  "yulek-theme/syntax-highlighting"
+;
