@@ -1,36 +1,36 @@
+@font-face {
+  font-family: 'FuturaBold';
+  src: url("fonts/FuturaStd-ExtraBold.eot");
+  src: url("fonts/FuturaStd-ExtraBold.woff2") format("woff2"), url("fonts/FuturaStd-ExtraBold.woff") format("woff"), url("fonts/FuturaStd-ExtraBold.ttf") format("truetype"), url("fonts/FuturaStd-ExtraBold.svg#FuturaStd-ExtraBold") format("svg"), url("fonts/FuturaStd-ExtraBold.eot?#iefix") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'CooperLight';
+  src: url("fonts/CooperLightCBT.eot");
+  src: url("fonts/CooperLightCBT.woff2") format("woff2"), url("fonts/CooperLightCBT.woff") format("woff"), url("fonts/CooperLightCBT.ttf") format("truetype"), url("fonts/CooperLightCBT.svg#CooperLightCBT") format("svg"), url("fonts/CooperLightCBT.eot?#iefix") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal; }
 * {
   box-sizing: border-box; }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: "Hevetica", "Arial", sans-serif;
+  font-family: "CooperLight", "Times", serif;
   line-height: 1.4;
-  font-size: 18px;
-  font-weight: lighter;
+  font-size: 19px;
   color: #222222; }
 
 a, a:visited {
   color: #222222; }
   a:hover, a:visited:hover {
-    color: pink; }
-
-.home {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; }
-
-.logo {
-  display: block;
-  width: 300px;
-  margin: 40px 20px 80px 0; }
+    color: #F8BBCD; }
 
 .divider {
   display: block;
   width: 10%;
   height: 1px;
-  margin: 80px auto;
+  margin: 40px auto;
   background-color: #d7d7d7; }
 
 .description {
@@ -40,7 +40,62 @@ a, a:visited {
 
 .info {
   text-align: center;
-  margin: 0 0 80px; }
+  margin: 0 0 40px; }
+
+.site-header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  pointer-events: none; }
+
+.site-nav {
+  pointer-events: all;
+  height: 100px;
+  line-height: 98px;
+  padding: 0px 20px; }
+
+.nav-link {
+  margin: 30px;
+  position: relative;
+  text-decoration: none;
+  font-size: 22px; }
+  .nav-link:hover, .nav-link.active:hover, .nav-link:active:hover {
+    color: #222222 !important; }
+  .nav-link svg {
+    position: absolute;
+    top: -4px;
+    left: calc(50% - 16px);
+    width: 32px;
+    z-index: -1; }
+  .nav-link .keur {
+    display: block;
+    opacity: 0; }
+  .nav-link:hover .keur, .nav-link.active:hover .keur {
+    stroke: #F8BBCD;
+    stroke-width: 70px;
+    opacity: 1;
+    fill: transparent; }
+  .nav-link.active .keur {
+    fill: #F8BBCD;
+    opacity: 1;
+    fill: #F8BBCD; }
+
+.hero-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.logo {
+  margin-top: -20px;
+  width: 90%;
+  max-width: 1000px; }
 
 /**
  * Syntax highlighting styles

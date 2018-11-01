@@ -5,39 +5,26 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: $font;
+  font-family: $font-serif;
   line-height: 1.4;
-  font-size: 18px;
-  font-weight: lighter;
-  color: rgb(34, 34, 34);
+  font-size: 19px;
+  color: $dark-color;
 }
 
 a, a:visited {
-  color: rgb(34, 34, 34);
+  color: $dark-color;
 
   &:hover {
-    color: pink;
+    color: $pink;
   }
 }
 
-.home {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.logo {
-  display: block;
-  width: 300px;
-  margin: $spacing 20px $spacing*2 0;
-}
 
 .divider {
   display: block;
   width: 10%;
   height: 1px;
-  margin: $spacing*2 auto;
+  margin: $spacing-unit*2 auto;
   background-color: rgb(215, 215, 215);
 }
 
@@ -49,5 +36,5 @@ a, a:visited {
 
 .info {
   text-align: center;
-  margin: 0 0 $spacing*2;
+  margin: 0 0 $spacing-unit*2;
 }
