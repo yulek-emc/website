@@ -6,10 +6,16 @@
   font-style: normal; }
 @font-face {
   font-family: 'CooperLight';
-  src: url("fonts/CooperLightCBT.eot");
-  src: url("fonts/CooperLightCBT.woff2") format("woff2"), url("fonts/CooperLightCBT.woff") format("woff"), url("fonts/CooperLightCBT.ttf") format("truetype"), url("fonts/CooperLightCBT.svg#CooperLightCBT") format("svg"), url("fonts/CooperLightCBT.eot?#iefix") format("embedded-opentype");
+  src: url("fonts/cooperl.eot");
+  src: url("fonts/cooperl.woff2") format("woff2"), url("fonts/cooperl.woff") format("woff"), url("fonts/cooperl.ttf") format("truetype"), url("fonts/cooperl.svg#CooperLightCBT") format("svg"), url("fonts/cooperl.eot?#iefix") format("embedded-opentype");
   font-weight: normal;
   font-style: normal; }
+@font-face {
+  font-family: 'CooperLight';
+  src: url("fonts/cooperli.eot");
+  src: url("fonts/cooperli.woff2") format("woff2"), url("fonts/cooperli.woff") format("woff"), url("fonts/cooperli.ttf") format("truetype"), url("fonts/cooperli.svg#CooperLightCBT") format("svg"), url("fonts/cooperli.eot?#iefix") format("embedded-opentype");
+  font-weight: normal;
+  font-style: italic; }
 * {
   box-sizing: border-box; }
 
@@ -20,6 +26,10 @@ body {
   line-height: 1.4;
   font-size: 19px;
   color: #222222; }
+
+h1, h2, h3, h4, h5, h6, p {
+  font-weight: normal;
+  margin: 0; }
 
 a, a:visited {
   color: #222222; }
@@ -67,7 +77,7 @@ a, a:visited {
     color: #222222 !important; }
   .nav-link svg {
     position: absolute;
-    top: -4px;
+    top: 0px;
     left: calc(50% - 16px);
     width: 32px;
     z-index: -1; }
@@ -86,7 +96,7 @@ a, a:visited {
 
 .hero-wrapper {
   width: 100%;
-  height: 100vh;
+  height: 105vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -96,6 +106,25 @@ a, a:visited {
   margin-top: -20px;
   width: 90%;
   max-width: 1000px; }
+
+.article-list-wrapper {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto; }
+
+.article-wrapper {
+  margin-bottom: 200px; }
+
+.cover-image {
+  width: 100%;
+  height: 300px;
+  background-size: cover; }
+
+.article-title {
+  font-family: "FuturaBold", "Hevetica", "Arial", sans-serif;
+  font-size: 120px;
+  line-height: 130px;
+  text-transform: uppercase; }
 
 /**
  * Syntax highlighting styles

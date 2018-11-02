@@ -12,12 +12,24 @@
 
 @font-face {
   font-family: 'CooperLight';
-  src: url('fonts/CooperLightCBT.eot');
-  src: url('fonts/CooperLightCBT.woff2') format('woff2'),
-       url('fonts/CooperLightCBT.woff') format('woff'),
-       url('fonts/CooperLightCBT.ttf') format('truetype'),
-       url('fonts/CooperLightCBT.svg#CooperLightCBT') format('svg'),
-       url('fonts/CooperLightCBT.eot?#iefix') format('embedded-opentype');
+  src: url('fonts/cooperl.eot');
+  src: url('fonts/cooperl.woff2') format('woff2'),
+       url('fonts/cooperl.woff') format('woff'),
+       url('fonts/cooperl.ttf') format('truetype'),
+       url('fonts/cooperl.svg#CooperLightCBT') format('svg'),
+       url('fonts/cooperl.eot?#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: 'CooperLight';
+  src: url('fonts/cooperli.eot');
+  src: url('fonts/cooperli.woff2') format('woff2'),
+       url('fonts/cooperli.woff') format('woff'),
+       url('fonts/cooperli.ttf') format('truetype'),
+       url('fonts/cooperli.svg#CooperLightCBT') format('svg'),
+       url('fonts/cooperli.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
 }

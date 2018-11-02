@@ -2,7 +2,7 @@ title: Yulek
 email: yulek.conseil.creation@gmail.com
 description: Write description
 collections:
-  projects:
+  articles:
     output: true
   illustrations:
     output: false
