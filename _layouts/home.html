@@ -8,11 +8,32 @@ layout: default
 
 <div class="article-list-wrapper">
 
-  {% for article in site.articles %}
+  {% assign articles-by-date = site.articles | sort: "date" | reverse %}
+  {% for article in articles-by-date %}
     <a href="{{ article.url }}" class="article-wrapper">
       <h2 class="article-title">{{ article.title }}</h2>
       <div class="cover-image" style="background-image: url({{ site.baseurl }}{{ article.cover-image }});"></div>
-      <div class="article-date">{{ article.date }}</div>
+      <div class="article-date">
+        {% assign month = article.date | date: "%-m" %}
+          {{ article.date | date: "%-d" }}
+          {% case month %}
+            {% when '1' %}Janvier
+            {% when '2' %}Février
+            {% when '3' %}Mars
+            {% when '4' %}Avril
+            {% when '5' %}Mai
+            {% when '6' %}Juin
+            {% when '7' %}Juillet
+            {% when '8' %}Août
+            {% when '9' %}Septembre
+            {% when '10' %}Octobre
+            {% when '11' %}Novembre
+            {% when '12' %}Decembre
+          {% endcase %}
+          {{ article.date | date: "%Y" }}
+
+        <!-- {{ article.date | date: "%d/%m/%Y"}} -->
+      </div>
     </a>
   {% endfor %}
 

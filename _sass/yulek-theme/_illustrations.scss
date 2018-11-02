@@ -1,0 +1,23 @@
+.illustration-list-wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 200px auto 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.illu-wrapper {
+  position: relative;
+  width: 31%;
+  margin: 1%;
+  padding-top: 31%;
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}
