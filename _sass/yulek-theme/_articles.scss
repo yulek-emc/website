@@ -19,14 +19,17 @@
   margin: 0 auto;
 }
 
-.article-wrapper {
-  margin-bottom: $spacing-unit*10
-}
+.article-wrapper,
+.article-wrapper:active,
+.article-wrapper:visited {
+  margin-bottom: $spacing-unit*10;
+  display: block;
+  text-decoration: none;
+  color: $dark-color;
 
-.cover-image {
-  width: 100%;
-  height: 300px;
-  background-size: cover;
+  &:hover {
+    color: $pink;
+  }
 }
 
 .article-title {
@@ -34,4 +37,14 @@
   font-size: 120px;
   line-height: 130px;
   text-transform: uppercase;
+}
+
+.cover-image {
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+}
+
+.article-date {
+  opacity: 0.6;
 }

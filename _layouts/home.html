@@ -9,10 +9,11 @@ layout: default
 <div class="article-list-wrapper">
 
   {% for article in site.articles %}
-    <div class="article-wrapper">
+    <a href="{{ article.url }}" class="article-wrapper">
       <h2 class="article-title">{{ article.title }}</h2>
       <div class="cover-image" style="background-image: url({{ site.baseurl }}{{ article.cover-image }});"></div>
-    </div>
+      <div class="article-date">{{ article.date }}</div>
+    </a>
   {% endfor %}
 
   <div class="description">
