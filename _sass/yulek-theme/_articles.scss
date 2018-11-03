@@ -85,8 +85,9 @@
   @include media-query($mobile) {
     font-size: 34px;
     line-height: 45px;
-    padding: 0px 5px;
-    margin-bottom: 40px;
+    padding: 0px 0px;
+    margin-bottom: 20px;
+    text-align: left;
   }
 }
 
@@ -97,7 +98,7 @@
 
   @include media-query($mobile) {
     padding: 0px 15px;
-    margin: 100px auto 100px;
+    margin: 100px auto 40px;
   }
 }
 
