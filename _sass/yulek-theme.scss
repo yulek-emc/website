@@ -13,6 +13,8 @@ $dark-color: #222222;
 
 $spacing-unit: 20px;
 
+$mobile: 760px;
+$tablet: 1080px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {

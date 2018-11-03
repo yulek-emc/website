@@ -6,7 +6,7 @@ media_folder: "assets/uploads"
 
 
 collections:
-  - name:      "articles"
+  - name:      "Articles"
     label:     "Articles"
     folder:    "_articles"
     create:    true
@@ -15,8 +15,8 @@ collections:
       - {label: "Titre de l'article", name: "title", widget: "string"}
       - {label: "date", name: "date", widget: "date"}
       - {label: "Image de couverture", name: "cover-image", widget: "image"}
-      - {label: "Contenu de l'article", name: "content", widget: "markdown", required: false}
-  - name:      "illustrations"
+      - {label: "Contenu de l'article", name: "article-content", widget: "markdown", required: false}
+  - name:      "Illustrations"
     label:     "Illustrations"
     folder:    "_illustrations"
     create:    true
@@ -25,11 +25,11 @@ collections:
       - {label: "date", name: "date", widget: "date"}
       - {label: "Image", name: "image", widget: "image"}
   - label:     "Pages"
-    name:      "pages"
+    name:      "Pages"
     files:
       - label:    "À propos"
-        name:     "about"
-        file:     "about/index.md"
+        name:     "About"
+        file:     "/about/index.html"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
           - {label: "Title", name: "title", widget: "string", default: "a-propos"}

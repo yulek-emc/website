@@ -1,4 +1,13 @@
 <header class="site-header" role="banner">
+  <div class="mobile-nav">
+    {% include keur-mobile.svg %}
+    <div class="menu-icon">
+      <span></span>
+    </div>
+    <div class="menu-close-icon">
+      <span></span>
+    </div>
+  </div>
   <nav class="site-nav">
     {% if page.id == "articles" %}
       <a class="nav-link active" href="{{ site.baseurl }}/">
@@ -65,6 +74,23 @@
         À propos
       </a>
       <a class="nav-link active" href="{{ site.baseurl }}/contact/">
+        {% include keur.svg %}
+        Contact
+      </a>
+    {% else %}
+      <a class="nav-link" href="{{ site.baseurl }}/">
+        {% include keur.svg %}
+        Articles
+      </a>
+      <a class="nav-link" href="{{ site.baseurl }}/illustrations/">
+        {% include keur.svg %}
+        Illustrations
+      </a>
+      <a class="nav-link" href="{{ site.baseurl }}/about/">
+        {% include keur.svg %}
+        À propos
+      </a>
+      <a class="nav-link" href="{{ site.baseurl }}/contact/">
         {% include keur.svg %}
         Contact
       </a>
