@@ -29,7 +29,7 @@ collections:
     files:
       - label:    "À propos"
         name:     "about"
-        file:     "/about/index.md"
+        file:     "/about/index.html"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
           - {label: "Title", name: "title", widget: "string", default: "a-propos"}
