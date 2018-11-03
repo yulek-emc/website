@@ -4,11 +4,14 @@ title: illustrations
 id: illustrations
 ---
 
-<div class="illustration-list-wrapper">
-  {% assign illustrations-by-date = site.illustrations | sort: "date" | reverse %}
-  {% for illustration in illustrations-by-date %}
-    <div class="illu-wrapper">
-      <img src="{{ site.baseurl }}{{ illustration.image }}">
-    </div>
-  {% endfor %}
+<div class="wrapper">
+  <h2 class="page-title">Illustrations</h2>
+  <div class="illustration-list-wrapper">
+    {% assign illustrations-by-date = site.illustrations | sort: "date" | reverse %}
+    {% for illustration in illustrations-by-date %}
+      <div class="illu-wrapper">
+        <img src="{{ site.baseurl }}{{ illustration.image }}">
+      </div>
+    {% endfor %}
+  </div>
 </div>

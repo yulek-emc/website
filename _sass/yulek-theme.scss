@@ -5,8 +5,11 @@
 $font-sans: "FuturaBold", "Hevetica", "Arial", sans-serif;
 $font-serif: "CooperLight", "Times", serif;
 
+$text-font-size: 19px;
+
 $pink: #F8BBCD;
-$dark-color: rgb(34, 34, 34);
+$text-grey: #7a7c88;
+$dark-color: #222222;
 
 $spacing-unit: 20px;
 
@@ -27,5 +30,7 @@ $spacing-unit: 20px;
   "yulek-theme/header",
   "yulek-theme/articles",
   "yulek-theme/illustrations",
+  "yulek-theme/about",
+  "yulek-theme/contact",
   "yulek-theme/syntax-highlighting"
 ;

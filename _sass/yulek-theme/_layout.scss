@@ -7,7 +7,7 @@ body {
   padding: 0;
   font-family: $font-serif;
   line-height: 1.4;
-  font-size: 19px;
+  font-size: $text-font-size;
   color: $dark-color;
 }
 
@@ -24,6 +24,25 @@ a, a:visited {
   }
 }
 
+.wrapper {
+  margin-top: 160px;
+}
+
+.hidden {
+  display: none;
+}
+
+.page-title {
+  width: 100%;
+  max-width: 800px;
+  margin: 0px auto;
+  font-family: $font-sans;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: $dark-color;
+  text-align: center;
+  margin-bottom: $spacing-unit*2;
+}
 
 .divider {
   display: block;

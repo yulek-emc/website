@@ -31,7 +31,7 @@ collections:
         name:     "about"
         file:     "about/index.md"
         fields:
-          - {label: Layout, name: layout, widget: "hidden", default: "home"}
-          - {label: Title, name: title, widget: "hidden", default: "home"}
-          - {label: Description, name: description, widget: markdown}
-          - {label: Contact, name: contact, widget: string, default: "yulek.conseil.creation@gmail.com"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+          - {label: "Title", name: "title", widget: "string", default: "a-propos"}
+          - {label: "Photo de profile", name: "profile-pic", widget: "image"}
+          - {label: "Description", name: "description", widget: "markdown"}

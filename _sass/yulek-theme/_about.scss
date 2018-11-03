@@ -1,0 +1,23 @@
+.about-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.profile-pic-container {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: $spacing-unit*2;
+}
+
+.about-description {
+  flex: 1;
+}
