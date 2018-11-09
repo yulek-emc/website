@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Ceci est un titre d'article sur deux lignes
+title: L'influence ou rien
 date: 2018-11-02T17:22:10.732Z
 cover-image: /assets/uploads/pantonier-reseaux.png
 article-content: >-
