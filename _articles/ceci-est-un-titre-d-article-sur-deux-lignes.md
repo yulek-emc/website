@@ -2,7 +2,7 @@
 layout: article
 title: Ceci est un titre d'article sur deux lignes
 date: 2018-11-02T17:22:10.732Z
-cover-image: /assets/uploads/article1.png
+cover-image: /assets/uploads/pantonier-reseaux.png
 article-content: >-
   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
   nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
