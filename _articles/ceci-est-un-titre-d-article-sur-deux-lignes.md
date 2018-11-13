@@ -100,22 +100,18 @@ article-content: >-
 
   Alors oui sur le principe, les marques paient pour qu’on achète comme des
   pigeons. Mais au fond personne ne nous force à passer 3H14 par jour sur nos
-  réseaux sociaux et encore moins à suivre des gens que génèrent potentiellement
-  du négatif en nous. Parce que se trouver intinéressante, laide, grosse,
-  maigre, plate, velue, malsappée pour moi c’est du négatif. Si vous arrivez à
+  réseaux sociaux et encore moins à suivre des gens qui génèrent potentiellement
+  du négatif en nous. Parce que se trouver inintéressante, laide, grosse,
+  maigre, plate, velue, mal-sapée pour moi c’est du négatif. Si vous arrivez à
   être complètement hermétique à toutes ces images alors, félicitations. Vous
-  devez surement pratiquer la méditation sur les pistes audio de Christophe
-  André et être au niveau expert du lâcher prise.
+  devez sûrement pratiquer la méditation sur les pistes audio de Christophe
+  André et être au niveau expert du lâcher-prise.
 
 
   Plutôt que d’être spectateur devenez acteur, acteur du beau, parce que voir
   des belles choses ça fait du bien, diffusez, soyez et participez. Ne pensez
   pas que le beau est plus beau ailleurs, le beau c’est nous. On est l’influence
   de notre propre vie.
-
-
-
-
 
 
   Estelle MC.
