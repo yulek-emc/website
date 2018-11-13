@@ -13,8 +13,6 @@ article-content: >-
   aussi compliquées que les notres.
 
 
-
-
   Comme tout le monde j’ai voulu faire des squats pour ressembler au fit girls,
   voulu une deco scandinave blanche chez moi, désirée un bouledogue français ,
   rêvée de manger tous les jours dans des endroits décorés avec soin et avoir le
@@ -41,8 +39,6 @@ article-content: >-
   lumière... Et la luminothérapie est conseillée dans les cure de vitamine D.
 
 
-
-
   Le problème ça n’est pas ce qu’on décide d’exposer dans nos vies, mais surtout
   qu’on est dans une période stagnante. À suivre des tendances, on se retrouve
   dans un monde de clones, ou tout le monde se ressemble, et on fini par
@@ -54,8 +50,6 @@ article-content: >-
   On veut créer de la frustration “regarde ce que moi j’ai et que tu n’as pas”.
   Des amis, des vacances, des moyens financiers, des weekend , un compagnon, une
   vie super à côté de la tienne aussi passionnante que la chaine Public Sénat.
-
-
 
 
   Et ça marche. Sur vous, sur moi, sur tout le monde. On trouve que notre vie
@@ -77,8 +71,6 @@ article-content: >-
   répondre aux questions, car on veut savoir, on veut TOUT savoir nous.
 
 
-
-
   Pour les stars on a le choix de lire Closer, Voici ou Gala, pour savoir qui se
   fait le SIF ou encore qui s’est tapé qui et qui a trompé qui avec qui. Et bien
   pour les influenceurs c’est pareil. Tu t’exposes, tu dois savoir que tu te
@@ -86,13 +78,9 @@ article-content: >-
   qu’à ta propre mère. 
 
 
-
-
   Et si tu joues la distance, t’es qu’une arrogante ingrate qui ne reconnaît pas
   que sa misérable existence ne tient qu’à un chiffre qui peut s’effondrer comme
   la Bourse. Tout ne tient qu’a des chiffres. 
-
-
 
 
   J’admire les gens qui ont le courage de s’exposer sans rien cacher, et qui
@@ -110,8 +98,6 @@ article-content: >-
   palme. 
 
 
-
-
   Alors oui sur le principe, les marques paient pour qu’on achète comme des
   pigeons. Mais au fond personne ne nous force à passer 3H14 par jour sur nos
   réseaux sociaux et encore moins à suivre des gens que génèrent potentiellement
@@ -122,11 +108,16 @@ article-content: >-
   André et être au niveau expert du lâcher prise.
 
 
-
-
   Plutôt que d’être spectateur devenez acteur, acteur du beau, parce que voir
   des belles choses ça fait du bien, diffusez, soyez et participez. Ne pensez
   pas que le beau est plus beau ailleurs, le beau c’est nous. On est l’influence
   de notre propre vie.
+
+
+
+
+
+
+  Estelle MC.
 ---
 
