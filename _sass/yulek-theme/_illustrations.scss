@@ -8,11 +8,12 @@
   flex-wrap: wrap;
 }
 
-.illu-wrapper {
+.illu-thumbnail {
   position: relative;
   width: 31%;
   margin: 1%;
   padding-top: 31%;
+  cursor: pointer;
 
   img {
     position: absolute;
@@ -20,4 +21,33 @@
     left: 0;
     width: 100%;
   }
+}
+
+.illu-big {
+  opacity: 0;
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(33, 37, 57, 0.6);
+  z-index: 20;
+
+  img {
+    width: 95%;
+    max-width: 800px;
+  }
+}
+
+// .illu-item-wrapper.active {
+//
+// }
+
+.illu-big.active {
+  opacity: 1;
+  pointer-events: all;
 }
