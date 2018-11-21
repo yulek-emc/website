@@ -32,6 +32,7 @@ collections:
         file:     "/about/index.html"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
+          - {label: "Id", name: "id", widget: "hidden", default: "about"}
           - {label: "Title", name: "title", widget: "string", default: "a-propos"}
           - {label: "Photo de profile", name: "profile-pic", widget: "image"}
           - {label: "Description", name: "description", widget: "markdown"}
