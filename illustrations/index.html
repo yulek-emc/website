@@ -10,7 +10,7 @@ id: illustrations
     {% assign illustrations-by-date = site.illustrations | sort: "date" | reverse %}
     {% for illustration in illustrations-by-date %}
       <div class="illu-thumbnail" illu-id="{{ forloop.index }}">
-        <img src="{{ site.baseurl }}{{ illustration.image }}">
+        {% image_tag src=illustration.image width="480" class="lazyload" %}
       </div>
     {% endfor %}
   </div>
@@ -20,7 +20,7 @@ id: illustrations
 <div class="illustration-highlight-wrapper">
   {% for illustration in illustrations-by-date %}
     <div id="id{{ forloop.index }}" class="illu-big">
-      <img src="{{ site.baseurl }}{{ illustration.image }}">
+      {% image_tag src=illustration.image width="800" class="lazyload" %}
     </div>
   {% endfor %}
 </div>

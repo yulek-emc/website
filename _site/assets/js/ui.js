@@ -1,3 +1,5 @@
+lazyload();
+
 var pageBody = document.body;
 
 function setDarkTheme() {
