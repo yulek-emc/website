@@ -94,13 +94,9 @@ article-content: >-
   que c'est qu'un double menton. Et le reste.
 
 
-
-
   Et promis, la roue tourne.
 
 
-
-
-  EMC
+  Estelle MC.
 ---
 
