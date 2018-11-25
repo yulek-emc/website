@@ -1,6 +1,6 @@
 ---
 layout: article
-title: L'influence ou rien
+title: L'influence ou rien.
 date: 2018-11-03T17:22:10.732Z
 cover-image: /assets/uploads/pantonier-reseaux.png
 article-content: >-
