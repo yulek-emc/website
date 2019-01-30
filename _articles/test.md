@@ -6,6 +6,8 @@ cover-image: /assets/uploads/couv-casio.jpg
 article-content: |-
   Illustrations de l'histoire de la marque CASIO  
 
+  ![](/assets/uploads/casio-livres.jpg)
+
   ![](/assets/uploads/casio1.jpg)
 
   ![](/assets/uploads/casio2.jpg)
