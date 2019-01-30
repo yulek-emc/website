@@ -4,11 +4,9 @@ title: Made in Japan
 date: 2018-08-01T08:16:31.625Z
 cover-image: /assets/uploads/couv-casio.jpg
 article-content: |-
-  ![](/assets/uploads/casio7.jpg)
-
-  ![](/assets/uploads/casio8.jpg)
-
   Illustrations de l'histoire de la marque CASIO  
+
+
 
   ![](/assets/uploads/casio1.jpg)
 
@@ -21,5 +19,7 @@ article-content: |-
   ![](/assets/uploads/casio6.jpg)
 
   ![](/assets/uploads/casio5.jpg)
+
+  ![](/assets/uploads/casio7.jpg)
 ---
 
