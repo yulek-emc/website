@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Édition / Jules Verne
+title: Jules Verne.
 date: 2018-05-01T12:48:07.139Z
 cover-image: /assets/uploads/julesversnescover.jpg
 article-content: |-
