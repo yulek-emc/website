@@ -6,7 +6,7 @@ cover-image: /assets/uploads/couv-casio.jpg
 article-content: |-
   ![](/assets/uploads/casio7.jpg)
 
-  ![]()
+  ![](/assets/uploads/casio8.jpg)
 
   Illustrations de l'histoire de la marque CASIO  
 
