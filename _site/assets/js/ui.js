@@ -43,8 +43,8 @@ window.onload = function() {
 
 window.addEventListener("load", function() {
 
-  var thumbnail = document.querySelectorAll(".illu-thumbnail");
-  var fullImage = document.querySelectorAll(".illu-big");
+  var thumbnail = document.querySelectorAll(".illu-thumbnail"); // Change thumbnail name here
+  var fullImage = document.querySelectorAll(".illu-big"); // Change large pic name here
 
   function lockScroll() {
     document.body.classList.add("locked");
@@ -57,7 +57,7 @@ window.addEventListener("load", function() {
   function highlightImage(imageClickEvent) {
 
     var clickedItem = imageClickEvent.currentTarget;
-    var itemID = clickedItem.getAttribute("illu-id");
+    var itemID = clickedItem.getAttribute("illu-id"); // Change attribute name here
     var associatedHighlight = document.querySelector("#id" + itemID);
 
     associatedHighlight.classList.add("active");
