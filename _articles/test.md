@@ -21,5 +21,7 @@ article-content: |-
   ![](/assets/uploads/casio5.jpg)
 
   ![](/assets/uploads/casio7.jpg)
+
+  ![](/assets/uploads/casio8.jpg)
 ---
 
