@@ -6,8 +6,6 @@ cover-image: /assets/uploads/couv-casio.jpg
 article-content: |-
   Illustrations de l'histoire de la marque CASIO  
 
-
-
   ![](/assets/uploads/casio1.jpg)
 
   ![](/assets/uploads/casio2.jpg)
@@ -19,8 +17,6 @@ article-content: |-
   ![](/assets/uploads/casio6.jpg)
 
   ![](/assets/uploads/casio5.jpg)
-
-  ![](/assets/uploads/casio7.jpg)
 
   ![](/assets/uploads/casio8.jpg)
 ---
