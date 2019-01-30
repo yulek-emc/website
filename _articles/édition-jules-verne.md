@@ -2,7 +2,7 @@
 layout: article
 title: Jules Verne.
 date: 2018-05-01T12:48:07.139Z
-cover-image: /assets/uploads/julesversnescover.jpg
+cover-image: /assets/uploads/julesvercover.jpg
 article-content: |-
   ![](/assets/uploads/julesversnes1.jpg)
 
