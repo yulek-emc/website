@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Enough
+title: 'Enough #2'
 date: 2018-11-25T16:39:03.843Z
 cover-image: /assets/uploads/rose2.png
 article-content: >-
