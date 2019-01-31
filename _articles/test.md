@@ -7,5 +7,7 @@ article-content: |-
   ![](/assets/uploads/affcihecasio2.jpg)
 
   ![](/assets/uploads/casio-livres.jpg)
+
+  ![](/assets/uploads/couvcasio1.jpg)
 ---
 
