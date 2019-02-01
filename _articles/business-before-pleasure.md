@@ -4,6 +4,8 @@ title: Business before pleasure.
 date: 2019-02-01T09:40:33.203Z
 cover-image: /assets/uploads/projetprocouv.jpg
 article-content: |-
+
+
   ![](/assets/uploads/tryptiquerose.jpg)
 
   ![](/assets/uploads/postebjorg1.jpg)
@@ -33,5 +35,9 @@ article-content: |-
   ![](/assets/uploads/clipper.jpg)
 
   ![](/assets/uploads/patchuriageokex.jpg)
+
+  ![](/assets/uploads/pageclipperpost1.jpg)
+
+  ![](/assets/uploads/postedoubleclipperdp.jpg)
 ---
 
