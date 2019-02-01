@@ -34,10 +34,10 @@ article-content: |-
 
   ![](/assets/uploads/clipper.jpg)
 
-  ![](/assets/uploads/patchuriageokex.jpg)
-
   ![](/assets/uploads/pageclipperpost1.jpg)
 
   ![](/assets/uploads/postedoubleclipperdp.jpg)
+
+  ![](/assets/uploads/patchuriageokex.jpg)
 ---
 
