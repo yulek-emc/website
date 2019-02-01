@@ -31,5 +31,7 @@ article-content: |-
   ![](/assets/uploads/nicolai.jpg)
 
   ![](/assets/uploads/clipper.jpg)
+
+  ![](/assets/uploads/patchuriageokex.jpg)
 ---
 
