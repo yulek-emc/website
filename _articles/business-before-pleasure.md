@@ -27,5 +27,7 @@ article-content: |-
   ![](/assets/uploads/newacouv.jpg)
 
   ![](/assets/uploads/newa2.jpg)
+
+  ![](/assets/uploads/nicolai.jpg)
 ---
 
