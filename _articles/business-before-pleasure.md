@@ -19,5 +19,7 @@ article-content: |-
   ![](/assets/uploads/invitationnail.jpg)
 
   ![](/assets/uploads/korres-post1.jpg)
+
+  ![](/assets/uploads/sm.jpg)
 ---
 
