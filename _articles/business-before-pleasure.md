@@ -15,5 +15,7 @@ article-content: |-
   ![](/assets/uploads/postebjorg4.jpg)
 
   ![](/assets/uploads/postebjorg5.jpg)
+
+  ![](/assets/uploads/invitationnail.jpg)
 ---
 
