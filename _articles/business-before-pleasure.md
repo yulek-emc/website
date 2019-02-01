@@ -29,5 +29,7 @@ article-content: |-
   ![](/assets/uploads/newa2.jpg)
 
   ![](/assets/uploads/nicolai.jpg)
+
+  ![](/assets/uploads/clipper.jpg)
 ---
 
