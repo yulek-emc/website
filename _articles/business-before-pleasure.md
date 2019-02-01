@@ -19,9 +19,5 @@ article-content: |-
   ![](/assets/uploads/invitationnail.jpg)
 
   ![](/assets/uploads/korres-post1.jpg)
-
-  ![](/assets/uploads/sanmarina.jpg)
-
-  ![](/assets/uploads/sanmarina2.jpg)
 ---
 
