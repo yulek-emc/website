@@ -38,6 +38,6 @@ article-content: |-
 
   ![](/assets/uploads/patchuriageokex.jpg)
 
-  ![](/assets/uploads/love.jpg)
+  ![](/assets/uploads/kiki.jpg)
 ---
 
