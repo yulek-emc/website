@@ -7,5 +7,7 @@ article-content: |-
   ![](/assets/uploads/coeur.jpg)
 
   ![](/assets/uploads/carteirisokex.jpg)
+
+  ![](/assets/uploads/carteirisokex2.jpg)
 ---
 
