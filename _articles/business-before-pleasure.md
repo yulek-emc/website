@@ -39,5 +39,7 @@ article-content: |-
   ![](/assets/uploads/patchuriageokex.jpg)
 
   ![](/assets/uploads/kiki.jpg)
+
+  ![](/assets/uploads/sanmarinaceremonies.jpg)
 ---
 
