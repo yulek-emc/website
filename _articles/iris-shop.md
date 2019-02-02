@@ -11,5 +11,7 @@ article-content: |-
   ![](/assets/uploads/carteirisokex2.jpg)
 
   ![](/assets/uploads/carteirisokex3.jpg)
+
+  ![](/assets/uploads/carteirisokex4.jpg)
 ---
 
