@@ -2,7 +2,7 @@
 layout: article
 title: 'Enough #2'
 date: 2018-11-25T16:39:03.843Z
-cover-image: /assets/uploads/rose2.png
+cover-image: /assets/uploads/coverenough2.jpg
 article-content: >-
   ![](/assets/uploads/enough.jpg)
 
