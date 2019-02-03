@@ -11,7 +11,7 @@ article-content: >-
   en tant que solide non plus en tant que liquide...
 
 
-  Shooting / Retouches - Print format A0
+  Shooting / Retouches - Print + digital 
 
 
   ![](/assets/uploads/pagebaccarat.jpg)
