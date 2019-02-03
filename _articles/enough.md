@@ -4,7 +4,7 @@ title: 'Enough #2'
 date: 2018-11-25T16:39:03.843Z
 cover-image: /assets/uploads/rose2.png
 article-content: >-
-  ![](/assets/uploads/doigt.png)
+  ![](/assets/uploads/enough.jpg)
 
 
   Nous avons tous connu ce genre de situations où on se dit, où on ressent que
