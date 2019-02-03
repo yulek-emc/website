@@ -8,7 +8,13 @@ article-content: |-
 
   ![](/assets/uploads/tryptiquerose.jpg)
 
+  Dossiers de presse produits La Rosée - Print format A5
+
   ![](/assets/uploads/postebjorg1.jpg)
+
+
+
+
 
   ![](/assets/uploads/postebjorg2.jpg)
 
