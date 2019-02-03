@@ -3,6 +3,11 @@ layout: article
 title: Vide-poche.
 date: 2018-08-01T12:12:06.795Z
 cover-image: /assets/uploads/covrphotos.jpg
-article-content: ''
+article-content: |-
+  ![](/assets/uploads/graph.jpg)
+
+  ![](/assets/uploads/photosfj.jpg)
+
+  ![](/assets/uploads/haricot-dyp.jpg)
 ---
 
