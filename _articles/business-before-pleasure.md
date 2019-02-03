@@ -8,42 +8,40 @@ article-content: >-
   différents clients, aussi bien print que digitales mais aussi illustratives.
 
 
-
-
   ![](/assets/uploads/tryptiquerose.jpg)
 
 
-  Dossiers de presse produits La Rosée - Print format A5
+  Dossiers de presse produits La Rosée - Print 
 
 
   ![](/assets/uploads/postebjorg1.jpg)
 
 
-  Lancement Granola / Bjorg - Print format A3 plié 
+  Lancement Granola / Bjorg - Print format A3 
 
 
   ![](/assets/uploads/postebjorg2.jpg)
 
 
-  Lancement Granola / Bjorg - Print format A3 plié - intérieur
+  Lancement Granola / Bjorg - Print format A3 
 
 
   ![](/assets/uploads/postebjorg3.jpg)
 
 
-  Lancement Gamme Algues / Bjorg - Print A3 plié 
+  Lancement Gamme Algues / Bjorg - Print A3
 
 
   ![](/assets/uploads/postebjorg4.jpg)
 
 
-  Lancement Gamme Algues / Bjorg - Print A3 plié - intérieur 1
+  Lancement Gamme Algues / Bjorg - Print A3 
 
 
   ![](/assets/uploads/postebjorg5.jpg)
 
 
-  Lancement Gamme Algues / Bjorg - Print A3 plié - intérieur 2
+  Lancement Gamme Algues / Bjorg - Print A3
 
 
   ![](/assets/uploads/invitationnail.jpg)
