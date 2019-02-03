@@ -17,12 +17,24 @@ article-content: >-
   ![](/assets/uploads/pagebaccarat.jpg)
 
 
+  Affiche A1 
+
+
   ![](/assets/uploads/instagram-baccarat.jpg)
+
+
+  Bandeau digital - Instagram
 
 
   ![](/assets/uploads/pagebaccarat-2.jpg)
 
 
+  Print parution presse - flacon vue 1
+
+
   ![](/assets/uploads/pagebaccarat-1.jpg)
+
+
+  Print parution presse - flacon vue 2
 ---
 
