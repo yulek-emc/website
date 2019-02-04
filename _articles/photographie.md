@@ -15,5 +15,7 @@ article-content: |-
   ![](/assets/uploads/carte.jpg)
 
   ![](/assets/uploads/neo.jpg)
+
+  ![](/assets/uploads/pola.jpg)
 ---
 
