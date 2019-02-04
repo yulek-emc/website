@@ -7,11 +7,5 @@ article-content: |-
   ![](/assets/uploads/typ.jpg)
 
   ![](/assets/uploads/photosfj.jpg)
-
-  ![](/assets/uploads/haricot-dyp.jpg)
-
-  ![](/assets/uploads/lait-dyp.jpg)
-
-  ![](/assets/uploads/pates-dyp.jpg)
 ---
 
