@@ -12,10 +12,6 @@ article-content: |-
 
   ![](/assets/uploads/shooti.jpg)
 
-  ![](/assets/uploads/poe.jpg)
-
   ![](/assets/uploads/citron.jpg)
-
-  ![](/assets/uploads/chamallow.jpg)
 ---
 
