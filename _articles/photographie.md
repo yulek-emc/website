@@ -19,5 +19,7 @@ article-content: |-
   ![](/assets/uploads/carte.jpg)
 
   ![](/assets/uploads/pola.jpg)
+
+  ![](/assets/uploads/pola2.jpg)
 ---
 
