@@ -11,32 +11,53 @@ article-content: >-
 
 
 
-
-
   ![](/assets/uploads/affcihecasio2.jpg)
+
+
+  Affiche "Le piano Casio" A1
 
 
   ![](/assets/uploads/casio-livres.jpg)
 
 
+  Extrait de la mise en page " Histoire de Casio"
+
+
   ![](/assets/uploads/cartex3-1.jpg)
+
+
+  Extraits des illustrations de la mise en page "Histoire de Casio" 
 
 
   ![](/assets/uploads/cartex3-2.jpg)
 
 
+  Extrait des illustrations de la mise en page "Histoire de Casio" 
+
+
   ![](/assets/uploads/couvcasio1.jpg)
+
+
+  Dernière de couverture  "Histoire de Casio" 
 
 
   ![](/assets/uploads/julesversnes1.jpg)
 
 
-  ![](/assets/uploads/julesversnes2.jpg)
+  Illustration "Vingt mille lieux sous les mers" de Jules Verne - Collection
+  Geométrie
 
 
   ![](/assets/uploads/julesversnes3.jpg)
 
 
+  Illustration "Voyage au centre de la terre" de Jules Verne - Collection
+  Geométrie
+
+
   ![](/assets/uploads/julesversnes4.jpg)
+
+
+  Illustration "De la terre à la lune" de Jules Verne - Collection Geométrie
 ---
 
