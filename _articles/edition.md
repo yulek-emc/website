@@ -4,6 +4,8 @@ title: Edition.
 date: 2018-11-01T12:58:02.737Z
 cover-image: /assets/uploads/coveredition.jpg
 article-content: >-
+
+
   Cette rubrique se compose d'un travail d'illustration sur l'histoire de Casio,
   mis en page et en affiche. Mais aussi, d'un travail illustratif sur une
   collection d'ouvrages de Jules Vernes. 
@@ -81,5 +83,11 @@ article-content: >-
 
 
   Illustration vectorielle sur packaging alimentaire - les farfalles
+
+
+  ![](/assets/uploads/orange-dyp.jpg)
+
+
+  Illustration vectorielle sur packaging alimentaire - le jus d'orange
 ---
 
