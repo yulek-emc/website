@@ -7,9 +7,7 @@ article-content: >-
   Shooting photo réalisé dans un hôtel chic de la capitale, autour du thème de
   la choucroute. Elle est hissée au rang de produit de luxe, sublimée, sujet
   principal de cette série. Univers kitsch, bijoux en toc clinquants et ring
-  flash donnent ici un cocktail nommé " La choucroute c'est le luxe"
-
-
+  flash donnent ici un cocktail nommé " La choucroute c'est le luxe".
 
 
   ![](/assets/uploads/choucrouteexpo.jpg)
