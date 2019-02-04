@@ -59,5 +59,11 @@ article-content: >-
 
 
   Illustration "De la terre à la lune" de Jules Verne - Collection Geométrie
+
+
+  ![](/assets/uploads/julesversnes2.jpg)
+
+
+  Illustration "Cinq semaines en ballon" de Jules Verne - Collection Geométrie
 ---
 
