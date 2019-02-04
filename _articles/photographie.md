@@ -9,5 +9,7 @@ article-content: |-
   ![](/assets/uploads/photosfj.jpg)
 
   ![](/assets/uploads/ouitypo.jpg)
+
+  ![](/assets/uploads/shooti.jpg)
 ---
 
