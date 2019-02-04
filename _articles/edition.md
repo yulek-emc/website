@@ -9,8 +9,6 @@ article-content: >-
   collection d'ouvrages de Jules Vernes. 
 
 
-
-
   ![](/assets/uploads/affcihecasio2.jpg)
 
 
@@ -65,5 +63,23 @@ article-content: >-
 
 
   Illustration "Cinq semaines en ballon" de Jules Verne - Collection Geométrie
+
+
+  ![](/assets/uploads/haricot-dyp.jpg)
+
+
+  Illustration vectorielle sur packaging alimentaire - les haricots
+
+
+  ![](/assets/uploads/lait-dyp.jpg)
+
+
+  Illustration vectorielle sur packaging alimentaire - Le lait
+
+
+  ![](/assets/uploads/pates-dyp.jpg)
+
+
+  Illustration vectorielle sur packaging alimentaire - les farfalles
 ---
 
