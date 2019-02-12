@@ -29,10 +29,11 @@ collections:
     files:
       - label:    "À propos"
         name:     "About"
-        file:     "/about/index.html"
+        file:     "/about/index.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
           - {label: "Id", name: "id", widget: "hidden", default: "about"}
           - {label: "Title", name: "title", widget: "string", default: "a-propos"}
-          - {label: "Photo de profile", name: "profile-pic", widget: "image"}
+          - {label: "Photo de profil", name: "profile-pic", widget: "image"}
           - {label: "Description", name: "description", widget: "markdown"}
+          - {label: "CV", name: "cv", widget: "image"}
