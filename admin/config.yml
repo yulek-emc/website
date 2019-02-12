@@ -36,4 +36,4 @@ collections:
           - {label: "Title", name: "title", widget: "string", default: "a-propos"}
           - {label: "Photo de profil", name: "profile-pic", widget: "image"}
           - {label: "Description", name: "description", widget: "markdown"}
-          - {label: "CV", name: "cv", widget: "image"}
+          - {label: "CV", name: "cv", widget: "file"}
