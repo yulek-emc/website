@@ -26,9 +26,13 @@ article-content: >-
   Double page - flacons
 
 
+  ![](/assets/uploads/instagram-baccarat.jpg)
+
+
+  Tryptique Instagram 
+
+
   ![](/assets/uploads/pagebaccarat-2.jpg)
-
-
 
 
   Print parution presse - flacon vue 1
