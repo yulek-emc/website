@@ -26,7 +26,17 @@ article-content: >-
   Bandeau digital - Instagram
 
 
+
+
+  ![](/assets/uploads/doublepagebaccarat.jpg)
+
+
+  Double page - flacons
+
+
   ![](/assets/uploads/pagebaccarat-2.jpg)
+
+
 
 
   Print parution presse - flacon vue 1
