@@ -20,14 +20,6 @@ article-content: >-
   Affiche A1 
 
 
-  ![](/assets/uploads/instagram-baccarat.jpg)
-
-
-  Bandeau digital - Instagram
-
-
-
-
   ![](/assets/uploads/doublepagebaccarat.jpg)
 
 
