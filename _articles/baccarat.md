@@ -20,10 +20,10 @@ article-content: >-
   Affiche A1 
 
 
-  ![](/assets/uploads/doublepagebaccarat.jpg)
+  ![](/assets/uploads/baccarat-pola.jpg)
 
 
-  Double page - flacons
+  Polaroîd flacons
 
 
   ![](/assets/uploads/instagram-baccarat.jpg)
