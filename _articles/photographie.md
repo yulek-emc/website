@@ -4,16 +4,6 @@ title: Vide-poche.
 date: 2018-08-01T12:12:06.795Z
 cover-image: /assets/uploads/covrphotos.jpg
 article-content: >-
-
-
-
-
-
-
-
-
-
-
   Mon vide-poche regroupe des projets de tout genre, les inclassables mais qui
   ont malgré tout leur place sur mon site. Ce sont des photos, des montages, des
   dessins, des trouvailles qui me tiennent à coeur et que je garde
