@@ -4,7 +4,9 @@ title: Iris Shop.
 date: 2019-01-30T15:44:49.735Z
 cover-image: /assets/uploads/couvertureiriscanardo.png
 article-content: >-
-  Iris Shop, est l'archétype du sex shop dans un quartier gare d'une ville du
+
+
+  AIris Shop, est l'archétype du sex shop dans un quartier gare d'une ville du
   Nord de la France. Menacé de fermeture, il a eu la volonté de changer son
   image mais aussi sa cible. Plus jeune, plus fun, plus féminine et aux couleurs
   plus ludiques...
@@ -56,5 +58,11 @@ article-content: >-
 
 
   Affiches boutique - shooting produit
+
+
+  ![](/assets/uploads/affcihesex.jpg)
+
+
+  Affiche Festival Erotic - Programme + bons
 ---
 
