@@ -58,7 +58,7 @@ article-content: >-
   Affiches boutique - shooting produit
 
 
-  ![](/assets/uploads/affcihesex.jpg)
+  ![](https://raw.githubusercontent.com/yulek-emc/website/master/assets/uploads/affcihesex.jpg)
 
 
   Affiche Festival Erotic - Programme + bons
