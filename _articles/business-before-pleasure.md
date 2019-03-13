@@ -128,6 +128,9 @@ article-content: >-
   Communiqué de presse / San Marina x La mariée aux pieds nus - digital
 
 
-  ![test](/assets/uploads/ny1.gif)
+  ![](/assets/uploads/ny1.gif)
+
+
+  Animation des illustrations Maison Francis Kurkdjian x The Standard Hôtel
 ---
 
