@@ -4,8 +4,6 @@ title: Business before pleasure.
 date: 2019-02-01T09:40:33.203Z
 cover-image: /assets/uploads/projetprocouv.jpg
 article-content: >-
-
-
   Cette catégorie regroupe une sélection des demandes professionnelles de
   différents clients, aussi bien print que digitales mais aussi illustratives.
 
@@ -167,11 +165,5 @@ article-content: >-
 
   Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
   Miami
-
-
-  ![](/assets/uploads/gisouallover.jpg)
-
-
-  Illustration - Huile capillaire Gisou
 ---
 
