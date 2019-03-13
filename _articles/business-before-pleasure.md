@@ -137,6 +137,7 @@ article-content: >-
   ![](/assets/uploads/ny2.gif)
 
 
-  Animation des illustrations Maison Francis Kurkdjian x The Standard Hôtel
+  Animation des illustrations Maison Francis Kurkdjian x The Standard Hôtel pour
+  les réseaux sociaux
 ---
 
