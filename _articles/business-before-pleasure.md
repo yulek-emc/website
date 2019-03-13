@@ -10,6 +10,10 @@ article-content: >-
 
 
 
+
+
+
+
   Cette catégorie regroupe une sélection des demandes professionnelles de
   différents clients, aussi bien print que digitales mais aussi illustratives.
 
@@ -158,5 +162,18 @@ article-content: >-
 
   Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
   Los Angeles
+
+
+  ![](/assets/uploads/gifprezmiami.gif)
+
+
+  ![](/assets/uploads/miami-1.gif)
+
+
+  ![](/assets/uploads/miami-2.gif)
+
+
+  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
+  Miami
 ---
 
