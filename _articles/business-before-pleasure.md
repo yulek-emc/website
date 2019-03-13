@@ -4,6 +4,12 @@ title: Business before pleasure.
 date: 2019-02-01T09:40:33.203Z
 cover-image: /assets/uploads/projetprocouv.jpg
 article-content: >-
+
+
+
+
+
+
   Cette catégorie regroupe une sélection des demandes professionnelles de
   différents clients, aussi bien print que digitales mais aussi illustratives.
 
@@ -137,7 +143,20 @@ article-content: >-
   ![](/assets/uploads/ny2.gif)
 
 
-  Animation des illustrations Maison Francis Kurkdjian x The Standard Hôtel pour
-  les réseaux sociaux
+  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
+  New-York
+
+
+  ![](/assets/uploads/gifprezla.gif)
+
+
+  ![](/assets/uploads/losangeles-1.gif)
+
+
+  ![](/assets/uploads/losangeles-2.gif)
+
+
+  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
+  Los Angeles
 ---
 
