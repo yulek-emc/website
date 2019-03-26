@@ -13,11 +13,5 @@ article-content: >-
 
 
   Illustration - Gisou / Huile capillaire
-
-
-  ![](/assets/uploads/binome.jpg)
-
-
-  Illustration N&B - _Qui est le maître ?_
 ---
 
