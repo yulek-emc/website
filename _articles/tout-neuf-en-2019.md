@@ -20,6 +20,6 @@ article-content: >-
   ![](/assets/uploads/illucaniche.jpg)
 
 
-  Illustration N&B - Qui est le maître
+  Illustration N&B - _Qui est le maître ?_
 ---
 
