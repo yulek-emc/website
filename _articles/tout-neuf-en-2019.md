@@ -31,6 +31,9 @@ article-content: >-
   Série d'illustrations / _Les Amulettes_ 
 
 
-  __
+  ![](/assets/uploads/ready-online-video-cutter.com-1-.gif)
+
+
+  Animations pour Yulek.fr
 ---
 
