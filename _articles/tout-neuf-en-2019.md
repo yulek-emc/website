@@ -14,5 +14,23 @@ article-content: >-
 
 
   Illustration - Gisou / Huile capillaire
+
+
+  ![](/assets/uploads/canicheviceetversa.jpg)
+
+
+  Illustration - Face/Face
+
+
+  ![](/assets/uploads/amulletteligne1.jpg)
+
+
+  ![](/assets/uploads/amulletteligne2.jpg)
+
+
+  Série d'illustrations / _Les Amulettes_ 
+
+
+  __
 ---
 
