@@ -56,7 +56,7 @@ article-content: >-
   Illustration digitale / Korres
 
 
-  ![](/assets/uploads/neroli-3.gif)
+  ![](/assets/uploads/neroli-3-1-1-.gif)
 
 
   Animation / Nicolaï - Grand Néroli 
