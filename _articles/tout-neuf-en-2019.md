@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Le tout neuf de 2019.
+title: Pleasure before business.
 date: 2019-03-01T15:38:22.772Z
 cover-image: /assets/uploads/couvcaniche.jpg
 article-content: >-
