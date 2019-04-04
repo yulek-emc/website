@@ -2,7 +2,7 @@
 layout: article
 title: Pleasure before business.
 date: 2019-03-01T15:38:22.772Z
-cover-image: /assets/uploads/couvcaniche.jpg
+cover-image: /assets/uploads/newcouv2019.jpg
 article-content: >-
   Voilà les nouveautés de 2019, cette rubrique sera alimentée au fur et à mesure
   de cette année. 2019 l'année du neuf et l'année de la meuf surtout, ne pas
