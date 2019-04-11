@@ -11,6 +11,12 @@ article-content: >-
   immortalisé voué à évoluer au fil du temps.
 
 
+  ![](/assets/uploads/iphone-trip.jpg)
+
+
+  Tryptique photographique - Iphone
+
+
   ![](/assets/uploads/photosfj.jpg)
 
 
