@@ -16,5 +16,10 @@ article-content: >-
 
 
   Merci à toutes celles qui participeront, de leur confiance et de leur beauté.
+
+
+
+
+  ![](/assets/uploads/myl-1.jpg)
 ---
 
