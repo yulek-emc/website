@@ -15,9 +15,6 @@ article-content: >-
   sobre, au stylisme épuré où seul le sujet compte.
 
 
-  Merci à toutes celles qui participeront, de leur confiance et de leur beauté.
-
-
 
 
   ![](/assets/uploads/myl-1.jpg)
