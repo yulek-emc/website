@@ -6,6 +6,10 @@ cover-image: /assets/uploads/newcouv-levis.jpg
 article-content: |-
   Des filles. Du style. La beauté de partout et dans tous ses états.
 
+
+
+  ![](/assets/uploads/couv2.jpg)
+
   ![](/assets/uploads/myl-2.jpg)
 
   ![](/assets/uploads/myl-3.jpg)
