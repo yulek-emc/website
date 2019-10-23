@@ -20,10 +20,16 @@ article-content: >-
   Affiche A1 
 
 
+  ![](/assets/uploads/baccarat-pola.jpg)
+
+
+  Polaroîd flacons
+
+
   ![](/assets/uploads/instagram-baccarat.jpg)
 
 
-  Bandeau digital - Instagram
+  Tryptique Instagram 
 
 
   ![](/assets/uploads/pagebaccarat-2.jpg)

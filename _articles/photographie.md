@@ -11,6 +11,18 @@ article-content: >-
   immortalisé voué à évoluer au fil du temps.
 
 
+  ![](/assets/uploads/diki-noir.jpg)
+
+
+  Portraits Noir & Blanc 
+
+
+  ![](/assets/uploads/iphone-trip.jpg)
+
+
+  Tryptique photographique - Iphone
+
+
   ![](/assets/uploads/photosfj.jpg)
 
 
@@ -41,8 +53,6 @@ article-content: >-
   Prise de vue Centre Pompidou Metz
 
 
-
-
   ![](/assets/uploads/citron.jpg)
 
 
@@ -64,6 +74,36 @@ article-content: >-
   ![](/assets/uploads/pola2.jpg)
 
 
-  Photos trouvées Avenue des Gobelins
+  Photos trouvées Avenue des Gobelins #2
+
+
+  ![](/assets/uploads/pola3.jpg)
+
+
+  Photos trouvées Avenue des Gobelins #3
+
+
+  ![](/assets/uploads/pola4.jpg)
+
+
+  Photos trouvées Avenue des Gobelins #4
+
+
+  ![](/assets/uploads/pola5.jpg)
+
+
+  Photos trouvées Avenue des Gobelins #5
+
+
+  ![](/assets/uploads/pola6.jpg)
+
+
+  Photos trouvées Avenue des Gobelins #6
+
+
+  ![](/assets/uploads/pola7.jpg)
+
+
+  Photos trouvées Avenue des Gobelins #7
 ---
 
