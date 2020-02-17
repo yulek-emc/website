@@ -227,25 +227,17 @@ a, a:visited {
   .nav-link:hover, .nav-link.active:hover, .nav-link:active:hover {
     color: #222222 !important; }
   .nav-link svg {
+    display: block;
     position: absolute;
     top: 0px;
     left: calc(50% - 16px);
     width: 32px;
     z-index: -1; }
-  .nav-link .keur {
-    display: block;
-    opacity: 0; }
-    @media screen and (max-width: 760px) {
-      .nav-link .keur {
-        display: none; } }
-  .nav-link:hover .keur, .nav-link.active:hover .keur {
-    stroke: #F8BBCD;
-    stroke-width: 70px;
-    opacity: 1;
-    fill: transparent; }
-  .nav-link.active .keur {
-    fill: #F8BBCD;
-    opacity: 1;
+    .nav-link svg path {
+      fill: transparent; }
+  .nav-link:hover svg path {
+    fill: rgba(248, 187, 205, 0.5); }
+  .nav-link.active svg path {
     fill: #F8BBCD; }
 
 .hero-wrapper {

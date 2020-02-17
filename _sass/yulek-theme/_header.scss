@@ -186,33 +186,45 @@
   }
 
   svg {
+    display: block;
     position: absolute;
     top: 0px;
     left: calc(50% - 16px);
     width: 32px;
     z-index: -1;
-  }
 
-  .keur {
-    display: block;
-    opacity: 0;
-
-    @include media-query($mobile) {
-      display: none;
+    path {
+      fill: transparent;
     }
   }
 
-  &:hover .keur,
-  &.active:hover .keur {
-    stroke: $pink;
-    stroke-width: 70px;
-    opacity: 1;
-    fill: transparent;
+  &:hover svg path {
+    fill: rgba( $pink, .5 );
   }
 
-  &.active .keur {
-    fill: $pink;
-    opacity: 1;
+  &.active svg path {
     fill: $pink;
   }
+
+  // svg path {
+  //   // display: block;
+  //   opacity: 0;
+
+  //   @include media-query($mobile) {
+  //     display: none;
+  //   }
+  // }
+
+  // &:hover svg path,
+  // &.active:hover svg path {
+  //   stroke: $pink;
+  //   stroke-width: 70px;
+  //   opacity: 1;
+  //   fill: transparent;
+  // }
+
+  // &.active svg path {
+  //   opacity: 1;
+  //   fill: $pink;
+  // }
 }
