@@ -37,7 +37,7 @@ description: >-
   Cela aurait pu être la fin de l'histoire, mais non. Après avoir quitté Paris pour retrouver une meilleure qualité de vie, je poursuis mon activité professionnelle en vivant à Metz. 1h15 de Paris que demander de plus. Je recherche des nouveaux clients dans la ville où désormais je vis. Je rencontre des gens, qui cherchent des créatifs en poste mais les propositions sont souvent trop "junior". C'est en sentiment partagé par les recruteurs et par moi-même.
 
 
-  Puis je rencontre la dirigeante de chez Expocom, société crée en 2001, qui réalise de la signalétique, des décors et des supports de communication. 1 échange, 2 échange, 3 échange, des entretiens avec un recruteur, après 6mois de doutes, de tests et d'allers-retours avec le cabinet de recrutement le verdict tombe : je suis officiellement attachée commerciale. 
+  Puis je rencontre la dirigeante de chez Expocom, société crée en 2001, qui réalise de la signalétique, des décors et des supports de communication. Un échange, deux échanges, trois échanges, des entretiens avec un recruteur, après 6mois de doutes, de tests et d'allers-retours avec le cabinet de recrutement le verdict tombe : je suis officiellement attachée commerciale. 
 
 
   Malgré cette nouvelle aventure professionnelle, Yulek reste ma société, moins active certes mais elle me permet de rester "la créative" que j'ai toujours été. Cette expérience d'une année et cette création de poste sur-mesure s'est façonnée au fil du temps. Tout naturellement j'ai voulu mettre en avant le développement des réseaux sociaux, créer un compte instagram et linkedin, développer et mettre en avant le travail de la société sur des réseaux. J'avais envie d'être une commerciale 2.0.
