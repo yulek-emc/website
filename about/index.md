@@ -25,7 +25,7 @@ description: >-
   Déterminée à trouver un poste chez l’annonceur, je trouve un poste chez Maison Francis Kukrdjian (2016) Cette fois je ne suis plus seule, et c’est en devenant coordinatrice de la création  de la Maison que je peux développer aussi bien du packaging, du digital, du merchandising et apporter mes compétences en animation vidéo. 
 
 
-  2018. J'ai envie d'autre chose, contre vents et marrées je prends la décision de quitter la Maison rattachée à LVHM, pour devenir l'assistante du designer foral Fabien Joly. Fleuriste reconnu dans le secteur de la mode et du luxe, ma vie professionnelle change radicalement et ça me plait. Tout naturellement je lui propose de m'occuper de sa communication jusqu'à là inexistante. Je mets sur pieds ses réseaux sociaux et, aidé d'un développeur nous réalisons son nouveau site internet. Je suis à la fois fleuriste, graphiste, livreuse, et finalement cette routine me plaît. 
+  Mais en 2018 j'ai envie d'autre chose, contre vents et marrées je prends la décision de quitter la Maison rattachée à LVHM, pour devenir l'assistante du designer foral Fabien Joly. Fleuriste reconnu dans le secteur de la mode et du luxe, ma vie professionnelle change radicalement et ça me plait. Tout naturellement je lui propose de m'occuper de sa communication jusqu'à là inexistante. Je mets sur pieds ses réseaux sociaux et, aidé d'un développeur nous réalisons son nouveau site internet. Je suis à la fois fleuriste, graphiste, livreuse, et finalement cette routine me plaît. 
 
 
   Etrangement c'est à cette période que j'ai le plus de demandes pour de la création graphique. Aux vues de cette engouement, je décide de créer ma structure et c'est en septembre 2018 que née Yulek.
