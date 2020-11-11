@@ -47,5 +47,10 @@ description: >-
 
 
   Aujourd'hui, armée de toutes ces expériences, Yulek reprend des couleurs pour proposer encore et comme toujours le meilleur de lui-même.
+
+
+
+
+  ![](/assets/uploads/toutestla.jpg)
 cv: /assets/uploads/curriculum-emc.pdf
 ---
