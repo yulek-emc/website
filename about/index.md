@@ -4,7 +4,7 @@ id: about
 title: about
 profile-pic: /assets/uploads/keur.jpg
 description: |-
-  ![](/assets/uploads/quisuieje.jpg)
+  ![](/assets/uploads/quisuieje1.jpg)
 
   ![]()
 cv: /assets/uploads/curriculum-emc.pdf
