@@ -49,8 +49,9 @@ description: >-
   Aujourd'hui, armée de toutes ces expériences, Yulek reprend des couleurs pour proposer encore et comme toujours le meilleur de lui-même.
 
 
-
-
   ![](/assets/uploads/toutestla.jpg)
+
+
+  ![](/assets/uploads/quisuieje4.jpg)
 cv: /assets/uploads/cv2020-emc.pdf
 ---
