@@ -52,5 +52,5 @@ description: >-
 
 
   ![](/assets/uploads/toutestla.jpg)
-cv: /assets/uploads/curriculum-emc.pdf
+cv: /assets/uploads/cv2020-emc.pdf
 ---
