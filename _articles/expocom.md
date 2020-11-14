@@ -15,4 +15,7 @@ article-content: >-
 
 
   ![](/assets/uploads/hf.gif)
+
+
+  ![](/assets/uploads/printing.jpg)
 ---
