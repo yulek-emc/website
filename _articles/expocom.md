@@ -20,7 +20,7 @@ article-content: >-
   ![](/assets/uploads/printing.jpg)
 
 
-  ![](/assets/uploads/lesyeux.gif)
+  ![](/assets/uploads/yeux.gif)
 
 
   ![]()
