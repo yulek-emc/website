@@ -15,4 +15,8 @@ article-content: |-
   ![](/assets/uploads/collage-5.jpg)
 
   ![](/assets/uploads/collage-3.jpg)
+
+  ![](/assets/uploads/grande-dame-white.jpg)
+
+  ![](/assets/uploads/moules-fripes-white.jpg)
 ---
