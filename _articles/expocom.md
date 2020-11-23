@@ -11,20 +11,20 @@ article-content: >-
   de cette année au sein de la société messine.
 
 
-  ![](/assets/uploads/origami.jpg "Mise en page Origami & prise de vu d'un produit aluminium. 2020")
+  ![]()
 
 
-  ![](/assets/uploads/hf.gif "Gif animé origami aluminium. 2020")
+  ![]()
 
 
-  ![]( "Prise de vue produit \\"Printing\\" polystyrène. 2020")
+  ![]()
 
 
-  ![]( "\\"Les yeux\\" gif animé. 2020")
+  ![]()
 
 
-  ![]( "Prise de vue, signalétique Marcal. 2020")
+  ![]()
 
 
-  ![](/assets/uploads/typo-hygiaphone.gif "Création typo & animation \\" Hygiaphone\\". 2020 ")
+  ![]()
 ---
