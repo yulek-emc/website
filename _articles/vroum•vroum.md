@@ -4,9 +4,9 @@ title: L'HEURE DE COLLE.
 date: 2020-11-19T18:08:09.371Z
 cover-image: /assets/uploads/cover-collages.jpg
 article-content: |-
+  ![](/assets/uploads/yulke-paper-gif.gif)
+
   ![](/assets/uploads/collage-2.jpg)
-
-
 
   ![](/assets/uploads/collage-1.jpg)
 
