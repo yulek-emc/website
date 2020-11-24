@@ -11,6 +11,9 @@ article-content: >-
   de cette année au sein de la société messine.
 
 
+  ![](/assets/uploads/logos-stands.jpg)
+
+
   ![](/assets/uploads/stand-1-iscom.jpg)
 
 
