@@ -38,8 +38,8 @@ article-content: >-
   ![](/assets/uploads/poissons.gif)
 
 
-  ![](/assets/uploads/fusee.gif)
+  ![]()
 
 
-  ![](/assets/uploads/hygiaphone.gif)
+  ![]()
 ---
