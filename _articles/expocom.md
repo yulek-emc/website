@@ -32,7 +32,7 @@ article-content: >-
   ![](/assets/uploads/stand-4-frenchfab.jpg)
 
 
-  ![]()
+  ![](/assets/uploads/projet-mercy-ok.jpg)
 
 
   ![]()
