@@ -26,7 +26,7 @@ article-content: >-
   ![](/assets/uploads/stand-2-frenchfab.jpg)
 
 
-  ![]()
+  ![](/assets/uploads/stand-3-frenchfab.jpg)
 
 
   ![]()
