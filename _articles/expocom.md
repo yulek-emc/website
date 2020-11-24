@@ -11,7 +11,7 @@ article-content: >-
   de cette année au sein de la société messine.
 
 
-  ![]()
+  ![](/assets/uploads/stand-1-oscom.jpg)
 
 
   ![]()
