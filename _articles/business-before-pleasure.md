@@ -5,7 +5,12 @@ date: 2019-02-01T09:40:33.203Z
 cover-image: /assets/uploads/projetprocouv.jpg
 article-content: >-
   Cette catégorie regroupe une sélection des demandes professionnelles de
-  différents clients, aussi bien print que digitales mais aussi illustratives.
+  différents clients, aussi bien print que digitales mais aussi illustratives. 
+
+
+
+
+  ![](/assets/uploads/logod.jpg)
 
 
   ![](/assets/uploads/tryptiquerose.jpg)
@@ -143,8 +148,7 @@ article-content: >-
   ![](/assets/uploads/ny2.gif)
 
 
-  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
-  New-York
+  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel - New-York
 
 
   ![](/assets/uploads/gifprezla.gif)
@@ -156,8 +160,7 @@ article-content: >-
   ![](/assets/uploads/losangeles-2.gif)
 
 
-  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
-  Los Angeles
+  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel - Los Angeles
 
 
   ![](/assets/uploads/gifprezmiami.gif)
@@ -169,7 +172,5 @@ article-content: >-
   ![](/assets/uploads/miami-2.gif)
 
 
-  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel -
-  Miami
+  Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel - Miami
 ---
-
