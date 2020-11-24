@@ -7,11 +7,17 @@ article-content: >-
   Expocom est ma dernière expérience professionnelle. Entreprise de création de
   signalétiques et de décors à Metz. Pendant un an, j'ai pu créer des contenus
   créatifs, photographier, animer et poser ici les projets qui m'ont le plus
-  parlés. Aussi bien institutionnels que libres, ici repose mon interprétation
-  de cette année au sein de la société messine.
+  parlés. Aussi bien institutionnels que libres, ici reposent mes productions au
+  sein de la société messine. 
 
 
-  ![](/assets/uploads/logos-stands.jpg)
+  La première partie présente la partie création commerciale, réalisations de stands, moodboards projets  animations des produits mis en avant Covid-19 & réseaux sociaux.
+
+
+  La seconde, est axée prise de vue produits et univers, une partie plus libre et moins commerciale mais qui fait échos à la partie créative de la société.
+
+
+  ![](/assets/uploads/logos-stands-ok.jpg)
 
 
   ![](/assets/uploads/stand-1-iscom.jpg)
