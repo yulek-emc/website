@@ -8,6 +8,7 @@ article-content: >-
   différents clients, aussi bien print que digitales mais aussi illustratives. 
 
 
+  Le point commun de tous ces clients ? Le bien-être mental ou physique, ils possèdent tous une identité visuelle déjà ancrée, à travers ces projets il fallait les emmener ailleurs. 
 
 
   ![](/assets/uploads/logod.jpg)
