@@ -42,10 +42,4 @@ article-content: >-
 
 
   Animation de l'illustration "Museum Aquarium régional" Hélène Colotte-Masson
-
-
-  ![]()
-
-
-  ![]()
 ---
