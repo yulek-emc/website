@@ -32,10 +32,16 @@ article-content: >-
   ![](/assets/uploads/stand-4-frenchfab.jpg)
 
 
-  ![](/assets/uploads/projet-mercy-ok.jpg "Moodboard // Projet Design d'espace d'un centre hospitalier METZ")
+  ![](/assets/uploads/projet-mercy-ok.jpg)
 
 
-  ![](/assets/uploads/poissons.gif "Animation de l'illustration \"Museum Aquarium régional\" Hélène Colotte-Masson")
+  Moodboard // Projet Design d'espace d'un centre hospitalier METZ
+
+
+  ![](/assets/uploads/poissons.gif)
+
+
+  Animation de l'illustration "Museum Aquarium régional" Hélène Colotte-Masson
 
 
   ![]()
