@@ -58,6 +58,6 @@ description: >-
   ![](/assets/uploads/toutestla.jpg)
 
 
-  ![](/assets/uploads/quisuieje4.jpg)
+  ![]()
 cv: /assets/uploads/cv2020-emc.pdf
 ---
