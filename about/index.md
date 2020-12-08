@@ -10,13 +10,10 @@ description: >-
   ![](/assets/uploads/cestqui.jpg)
 
 
-  C'est quoi
+  Yulek est un studio graphique, qui propose conseil et création à ses clients. Identité visuelle, mise en page, illustration, photographie et animation vidéo vous sont proposés. Yulek c'est aussi bien de la création graphique que plastique, le collage et l'illustration manuelle font partie à part entière des solutions que nous proposons. 
 
 
-
-
-
-
+  Envie d'en savoir plus ? Laissez moi me présenter plus en détails.
 
 
   Je suis née à Metz le 24 décembre 1989, glissée sous le sapin, ce qui fait de moi une femme des années 80. Depuis toujours passionnée d’art, je décide une fois mon bac Littéraire spécialité Arts Plastiques en poche (2009) de rentrer à l’école des Beaux Arts de Metz. Après une année passée là-bas, ça n’est pas le déclic, la formation est très orientée Art Vidéo et je sens que je n’aurais pas accès au monde professionnel auquel j’aspire. 
