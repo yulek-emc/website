@@ -38,8 +38,5 @@ article-content: >-
   Moodboard // Projet Design d'espace d'un centre hospitalier METZ
 
 
-  ![](/assets/uploads/poissons.gif)
-
-
-  Animation de l'illustration "Museum Aquarium régional" Hélène Colotte-Masson
+  ![]()
 ---
