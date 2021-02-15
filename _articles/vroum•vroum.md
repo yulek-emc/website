@@ -7,8 +7,8 @@ article-content: >-
   L'heure de colle est une série de collages, réalisés pour le collectif Objet
   Papier (objetpapier.fr) sur le thème du corps & des véhicules. Images tirées
   des Vogues de l'année 2020, où la représentation du corps est omniprésente,
-  représenté comme un objet, qui nous classe socialement : deveint-il un
-  véhicule ? 
+  représenté comme un objet, qui nous classe socialement : devient un véhicule
+  ? 
 
 
 
