@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Expocom // metz
+title: Expocom - Metz
 date: 2020-10-11T07:30:30.904Z
 cover-image: /assets/uploads/couvexpocom.jpg
 article-content: >-
