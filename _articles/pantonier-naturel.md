@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Pantonier // Wild
+title: Pantonier // Fabien Joly
 date: 2019-06-08T18:29:37.136Z
 cover-image: /assets/uploads/pantonecouv.gif
 article-content: >-
@@ -24,4 +24,3 @@ article-content: >-
 
   ![](/assets/uploads/pantone3.jpg)
 ---
-
