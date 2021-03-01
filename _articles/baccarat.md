@@ -52,4 +52,13 @@ article-content: >-
 
 
   Animations des illustrations Maison Francis Kurkdjian x The Standard Hôtel - Miami
+
+
+  ![](/assets/uploads/gifprezny.gif)
+
+
+  ![](/assets/uploads/ny1.gif)
+
+
+  ![](/assets/uploads/ny2.gif)
 ---
