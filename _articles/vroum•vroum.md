@@ -1,6 +1,6 @@
 ---
 layout: article
-title: L'HEURE DE COLLE.
+title: "Objet papier x Yulek "
 date: 2020-11-19T18:08:09.371Z
 cover-image: /assets/uploads/cover-collages.jpg
 article-content: >-
