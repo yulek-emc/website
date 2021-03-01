@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Iris Shop.
+title: "Iris Shop // METZ "
 date: 2019-01-30T15:44:49.735Z
 cover-image: /assets/uploads/couvertureiriscanardo.png
 article-content: >-
@@ -63,4 +63,3 @@ article-content: >-
 
   Affiche Festival Erotic - Programme + bons
 ---
-
