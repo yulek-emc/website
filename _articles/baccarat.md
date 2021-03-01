@@ -11,7 +11,7 @@ article-content: >-
   en tant que solide non plus en tant que liquide...
 
 
-  Shooting / Retouches - Print + digital 
+  Shooting / Retouches 
 
 
   ![](/assets/uploads/pagebaccarat.jpg)
@@ -42,4 +42,7 @@ article-content: >-
 
 
   Print parution presse - flacon vue 2
+
+
+  ![](/assets/uploads/gifprezmiami.gif)
 ---
