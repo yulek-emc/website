@@ -2,7 +2,7 @@
 layout: article
 title: Fabien Joly
 date: 2019-06-08T18:29:37.136Z
-cover-image: /assets/uploads/1fjcoversite.jpg
+cover-image: /assets/uploads/2fjcoversite.jpg
 article-content: >-
   Ce pantonnier naturel, est venu de l'idée du fleuriste Fabien Joly et moi-même
   de créer un parallèle entre son univers et le mien. Graphique, maîtrisé pour
