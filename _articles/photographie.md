@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Vide-poche.
+title: photoshoots
 date: 2018-08-01T12:12:06.795Z
 cover-image: /assets/uploads/covrphotos.jpg
 article-content: >-
@@ -106,4 +106,3 @@ article-content: >-
 
   Photos trouvées Avenue des Gobelins #7
 ---
-
