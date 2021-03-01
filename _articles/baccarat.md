@@ -61,4 +61,13 @@ article-content: >-
 
 
   ![](/assets/uploads/ny2.gif)
+
+
+  ![](/assets/uploads/gifprezla.gif)
+
+
+  ![](/assets/uploads/losangeles-1.gif)
+
+
+  ![](/assets/uploads/losangeles-2.gif)
 ---
