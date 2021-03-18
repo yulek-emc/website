@@ -6,5 +6,5 @@ cover-image: /assets/uploads/cover-torus-noir.jpg
 article-content: |-
   ![](/assets/uploads/cartes-torus.jpg)
 
-  ![](/assets/uploads/torus-book-1.jpg)
+  ![](/assets/uploads/charte-torus.jpg)
 ---
