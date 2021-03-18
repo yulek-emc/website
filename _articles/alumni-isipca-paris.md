@@ -28,4 +28,7 @@ article-content: >-
 
 
   ![](/assets/uploads/site-ispca3.jpg)
+
+
+  2. La charte graphique
 ---
