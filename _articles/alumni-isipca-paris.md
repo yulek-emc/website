@@ -18,5 +18,14 @@ article-content: >-
 
 
 
-  1. Recherches du développement du logo
+  1. Recherches du développement du logo 
+
+
+  ![](/assets/uploads/site-ispca1.jpg)
+
+
+  ![](/assets/uploads/site-ispca2.jpg)
+
+
+  ![](/assets/uploads/site-ispca3.jpg)
 ---
