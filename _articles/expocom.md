@@ -47,5 +47,8 @@ article-content: >-
   ![](/assets/uploads/poissons.gif)
 
 
-  Animation d'illustration d'Hélène C.Masson pour réseaux sociaux
+  Animation d'illustration d'Hélène C.Masson pour réseaux sociaux 
+
+
+  ![](/assets/uploads/o3wrh-cutam.gif)
 ---
