@@ -41,5 +41,5 @@ article-content: >-
   ![](/assets/uploads/hygiaphone.gif)
 
 
-  Animation typographique de " L'hygiaphone"
+  Animation typographique de " L'hygiaphone" matériel Covid-19
 ---
