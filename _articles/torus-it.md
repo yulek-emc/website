@@ -7,4 +7,6 @@ article-content: |-
   ![](/assets/uploads/cartes-torus.jpg)
 
   ![](/assets/uploads/charte-torus.jpg)
+
+  ![](/assets/uploads/chartregraphique-torus-2.jpg)
 ---
