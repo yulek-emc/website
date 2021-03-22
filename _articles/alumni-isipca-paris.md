@@ -32,4 +32,7 @@ article-content: >-
 
 
   ![](/assets/uploads/chartregraphique-isipca-1.jpg)
+
+
+  ![](/assets/uploads/chartregraphique-isipca-2.jpg)
 ---
