@@ -41,5 +41,11 @@ article-content: >-
   ![](/assets/uploads/hygiaphone.gif)
 
 
-  Animation typographique de " L'hygiaphone" matériel Covid-19
+  Animation typographique de " L'hygiaphone" matériel Covid-19 
+
+
+  ![](/assets/uploads/poissons.gif)
+
+
+  Animation d'illustration d'Hélène C.Masson pour réseaux sociaux
 ---
