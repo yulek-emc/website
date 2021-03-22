@@ -38,5 +38,8 @@ article-content: >-
   Moodboard // Projet Design d'espace d'un centre hospitalier METZ
 
 
-  ![]()
+  ![](/assets/uploads/hygiaphone.gif)
+
+
+  Animation typographique de " L'hygiaphone"
 ---
