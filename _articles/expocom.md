@@ -53,5 +53,11 @@ article-content: >-
   ![](/assets/uploads/o3wrh-cutam.gif)
 
 
-  Animation pour les prestations de supports de communication Expocom - Newsletter
+  Animation pour les prestations de supports de communication Expocom - Newsletter 
+
+
+  ![](/assets/uploads/3q0bo-fkxjb.gif)
+
+
+  Animation réseaux sociaux - création de silhouettes sur mesure sécurité Covid-19
 ---
