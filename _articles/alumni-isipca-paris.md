@@ -16,7 +16,7 @@ article-content: >-
   2021 voulait marquer un vrai tournant pour le développement de l'annuaire de l'école. J'ai donc proposé de s'inspirer de l'univers de Matisse. Une éventail de couleurs, des formes simples qui montrent aussi bien le parfum, que l'alimentaire mais aussi l'arôme. Nous voulions développer un bel objet, différent, surprenant, un objet que l'on veut exposer chez soi, dans sa bibliothèque. Un livre objet, utile et pour la 50eme année sortir du classicisme habituel. 
 
 
-  1. Recherches du développement du logo 
+  Recherches du développement du logo 
 
 
   ![](/assets/uploads/site-ispca1.jpg)
@@ -28,7 +28,8 @@ article-content: >-
   ![](/assets/uploads/site-ispca3.jpg)
 
 
-  2. La charte graphique
+  La charte graphique
 
-     ![](/assets/uploads/chartregraphique-isipca-1.jpg)
+
+  ![](/assets/uploads/chartregraphique-isipca-1.jpg)
 ---
