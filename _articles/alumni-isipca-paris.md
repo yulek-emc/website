@@ -35,4 +35,7 @@ article-content: >-
 
 
   ![](/assets/uploads/chartregraphique-isipca-2.jpg)
+
+
+  ![](/assets/uploads/isipca-reseauxsociau.jpg)
 ---
