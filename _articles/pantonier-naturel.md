@@ -11,16 +11,14 @@ article-content: >-
   couleurs et de nos envies !
 
 
+  ![]()
 
 
-  ![](/assets/uploads/pantone4.jpg)
+  ![]()
 
 
-  ![](/assets/uploads/pantone1.jpg)
+  ![]()
 
 
-  ![](/assets/uploads/pantone2.jpg)
-
-
-  ![](/assets/uploads/pantone3.jpg)
+  ![]()
 ---
