@@ -37,5 +37,8 @@ article-content: >-
   ![](/assets/uploads/chartregraphique-isipca-2.jpg)
 
 
+  Les gabarits fournis au client en fichier source pour créer lui-même ses posts instagram, ainsi le projet est défini en amont et le client est totalement autonome sur ses publications. 
+
+
   ![](/assets/uploads/isipca-reseauxsociau.jpg)
 ---
