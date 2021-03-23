@@ -60,4 +60,7 @@ article-content: >-
 
 
   Animation réseaux sociaux - création de silhouettes sur mesure sécurité Covid-19
+
+
+  ![](/assets/uploads/npn8o-5oij2.gif)
 ---
