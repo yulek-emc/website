@@ -11,13 +11,32 @@ article-content: >-
   souhaitait. 
 
 
-
-
   ![](/assets/uploads/cartes-torus.jpg)
+
+
+  Développement des cartes de visites TORUS 
 
 
   ![](/assets/uploads/charte-torus.jpg)
 
 
+  Développement de la charte graphique TORUS sur BP
+
+
   ![](/assets/uploads/chartregraphique-torus-2.jpg)
+
+
+  Charte graphique TORUS - 2021
+
+
+  ![](/assets/uploads/sitetorus1.jpg)
+
+
+  Support de communication réseaux sociaux " prestations" Torus 
+
+
+  ![](/assets/uploads/sitetorus2.jpg)
+
+
+  Support de communication réseaux sociaux " NSI" Torus
 ---
