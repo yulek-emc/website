@@ -2,7 +2,7 @@
 layout: article
 title: ANNUAIRE ISIPCA 2021
 date: 2021-08-17T12:57:27.318Z
-cover-image: /assets/uploads/couvannu.png
+cover-image: /assets/uploads/couv-annuaire2021.png
 article-content: >-
   Pour les 50 ans de l'école ISIPCA à Paris, nous avons voulu développer un
   univers marquant. Inspiré de Matisse, des formes simples et des couleurs
