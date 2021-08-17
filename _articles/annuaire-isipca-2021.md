@@ -13,4 +13,9 @@ article-content: >-
 
 
   Développement de l'objet papier, du coffret, illustrations et mise en page & création d'une animation
+
+
+
+
+  ![](/assets/uploads/couv1.png)
 ---
