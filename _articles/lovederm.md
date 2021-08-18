@@ -9,4 +9,6 @@ article-content: |-
   ![](/assets/uploads/love-2.jpg)
 
   ![](/assets/uploads/love-3.jpg)
+
+  ![](/assets/uploads/love-4.jpg)
 ---
