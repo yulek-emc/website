@@ -17,4 +17,8 @@ article-content: |-
   ![](/assets/uploads/diplomadv-6.jpg)
 
   ![](/assets/uploads/diplomadv-7.jpg)
+
+  ![](/assets/uploads/diplomadv-8.jpg)
+
+  ![](/assets/uploads/diplomadv-9.jpg)
 ---
