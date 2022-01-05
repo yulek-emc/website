@@ -6,7 +6,7 @@ cover-image: /assets/uploads/couv-diplo.jpg
 article-content: |-
   ![](/assets/uploads/diplomadv-1.jpg)
 
-  ![](/assets/uploads/diplomadv-2.jpg)
+  ![](/assets/uploads/diplomadv-2-new.jpg)
 
   ![](/assets/uploads/diplomadv-3.jpg)
 
