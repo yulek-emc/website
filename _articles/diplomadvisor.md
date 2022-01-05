@@ -11,4 +11,10 @@ article-content: |-
   ![](/assets/uploads/diplomadv-3.jpg)
 
   ![](/assets/uploads/diplomadv-4.jpg)
+
+  ![](/assets/uploads/diplomadv-5.jpg)
+
+  ![](/assets/uploads/diplomadv-6.jpg)
+
+  ![](/assets/uploads/diplomadv-7.jpg)
 ---
