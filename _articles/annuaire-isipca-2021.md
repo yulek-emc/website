@@ -15,6 +15,11 @@ article-content: >-
   Développement de l'objet papier, du coffret, illustrations et mise en page & création d'une animation
 
 
+  [Voir l'animation ! ](https://www.youtube.com/watch?v=z8j3Dn7RKPM)
+
+
+
+
   ![](/assets/uploads/couv1.png)
 
 
