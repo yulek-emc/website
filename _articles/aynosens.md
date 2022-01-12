@@ -14,7 +14,7 @@ article-content: >-
   Pour découvrir mes projets animés cliquez ici ---> [les vidéos](https://www.youtube.com/channel/UCaoHBoDcfZmKng7w-OFriWg)
 
 
-  ![](/assets/uploads/aynosens-1.jpg)
+  ![](/assets/uploads/aynosens-post.jpg)
 
 
   ![]()
