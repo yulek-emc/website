@@ -11,8 +11,6 @@ article-content: >-
   Ici vous trouverez une sélection des supports digitaux mais aussi print que j'ai pu développer. Shooting, développement 3D et animations pour réseaux sociaux, cette mission a été très complète et un vrai défis de polyvalence. 
 
 
-
-
   Ici ---> https://www.youtube.com/channel/UCaoHBoDcfZmKng7w-OFriWg
 
 
@@ -22,7 +20,7 @@ article-content: >-
   ![](/assets/uploads/aynosens-1.jpg)
 
 
-  ![](/assets/uploads/cartedenoel-aynosens.gif)
+  ![]()
 
 
   ![]()
