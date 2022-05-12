@@ -4,5 +4,5 @@ id: about
 title: about
 profile-pic: /assets/uploads/keur.jpg
 description: "![](/assets/uploads/cv2021-emc.jpg)"
-cv: /assets/uploads/emc-cv.pdf
+cv: /assets/uploads/estellemartinchaves-cv.pdf
 ---
