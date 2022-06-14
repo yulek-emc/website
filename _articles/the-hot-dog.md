@@ -2,7 +2,7 @@
 layout: article
 title: THE HOT DOG
 date: 2022-06-14T13:28:58.657Z
-cover-image: /assets/uploads/couverture-site.jpg
+cover-image: /assets/uploads/couverture-site-ok.jpg
 article-content: >-
   Création de l'identité visuelle de la société THE HOT DOG, société qui propose
   services de garde & promenade à Metz.
