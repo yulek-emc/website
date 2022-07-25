@@ -2,7 +2,7 @@
 layout: article
 title: Maison Francis Kurkdjian
 date: 2019-01-31T14:37:34.529Z
-cover-image: /assets/uploads/overbaccarat.jpg
+cover-image: /assets/uploads/covermfk.jpg
 article-content: >-
   
 
