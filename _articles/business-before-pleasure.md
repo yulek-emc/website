@@ -2,7 +2,7 @@
 layout: article
 title: "GRENADINE RP "
 date: 2019-02-01T09:40:33.203Z
-cover-image: /assets/uploads/covergrena2021.jpg
+cover-image: /assets/uploads/covergrenadine.jpg
 article-content: >-
   Cette catégorie regroupe une sélection des demandes professionnelles de
   différents clients, aussi bien print que digitales mais aussi illustratives. 
