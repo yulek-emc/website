@@ -2,7 +2,7 @@
 layout: article
 title: TORUS IT
 date: 2020-12-31T23:00:00.000Z
-cover-image: /assets/uploads/cov-torus.png
+cover-image: /assets/uploads/covertoru.jpg
 article-content: >-
   En 2021, la société Torus est créée. La demandes est simple : un logo, une
   charte graphique pour décliner les documents pour les clients et sans garder
