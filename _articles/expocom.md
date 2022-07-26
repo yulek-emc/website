@@ -2,7 +2,7 @@
 layout: article
 title: Expocom - Metz
 date: 2020-10-11T07:30:30.904Z
-cover-image: /assets/uploads/couvexpocom.jpg
+cover-image: /assets/uploads/covexpocom.jpg
 article-content: >-
   Expocom est ma dernière expérience professionnelle. Entreprise de création de
   signalétiques et de décors à Metz. Pendant un an, j'ai pu créer des contenus
