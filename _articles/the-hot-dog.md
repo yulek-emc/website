@@ -14,5 +14,5 @@ article-content: >-
   Cliquez ici pour accéder aux animations 
 
 
-  ![](/assets/uploads/thd-site-full.jpg)
+  ![](/assets/uploads/thd-site-full-22.jpg)
 ---
