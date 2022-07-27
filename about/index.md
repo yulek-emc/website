@@ -3,6 +3,6 @@ layout: about
 id: about
 title: about
 profile-pic: /assets/uploads/keur.jpg
-description: "![](/assets/uploads/cv2021-emc.jpg)"
-cv: /assets/uploads/estellemartinchaves-cv.pdf
+description: "![](/assets/uploads/emc-2022-cv.jpg)"
+cv: /assets/uploads/emc-2022-cv.pdf
 ---
