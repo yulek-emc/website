@@ -15,4 +15,7 @@ article-content: >-
 
 
   ![](/assets/uploads/thd-site-full-22.jpg)
+
+
+  ![](/assets/uploads/localisation-hd.gif)
 ---
