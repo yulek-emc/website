@@ -9,4 +9,10 @@ article-content: >-
 
 
   Réalisation du logo, carte de visite, flyer promotionnel, site internet mais aussi animation des réseaux sociaux ( créations d'infographies, prise de vue et montage vidéo )
+
+
+  Cliquez ici pour accéder aux animations 
+
+
+  ![](/assets/uploads/thd-site-full.jpg)
 ---
