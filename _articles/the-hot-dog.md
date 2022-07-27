@@ -8,10 +8,13 @@ article-content: >-
   services de garde & promenade à Metz.
 
 
-  Réalisation du logo, carte de visite, flyer promotionnel, site internet mais aussi animation des réseaux sociaux ( créations d'infographies, prise de vue et montage vidéo )
+  Réalisation du logo, carte de visite, flyer promotionnel, site internet mais aussi animation des réseaux sociaux 
 
 
-  Cliquez ici pour accéder aux animations 
+  ( créations d'infographies, prise de vue et montage vidéo )
+
+
+  [Cliquez ici ](https://youtube.com/shorts/OPzApguqIuQ?feature=share)pour accéder à l'animation de présentation du service 
 
 
   ![](/assets/uploads/thd-site-full-22.jpg)
